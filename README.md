@@ -1,6 +1,6 @@
 This profile is kinda dead since I'm currently taking a break from code to focus on networking, but I'm keeping it around to archive scripts and stuff.
 
-![CV](https://github.com/SebasNatale95/SebasNatale95/blob/main/CV.jpg)
+![CV](https://github.com/Seb-Natale/myCV/blob/main/CV.jpg)
 
 ### Some of my favorite WIPs and demos:
   - The ADHD Vault (client) - An app for a dear friend. [The repo is here.](https://github.com/SebasNatale95/The-ADHD-Vault--client-)
