@@ -3,7 +3,7 @@ This profile is kinda dead since I'm currently taking a break from code to focus
 ![CV](https://github.com/Seb-Natale/myCV/blob/main/CV.jpg)
 
 ### Some of my favorite WIPs and demos:
-  - The ADHD Vault (client) - An app for a dear friend. [The repo is here.](https://github.com/SebasNatale95/The-ADHD-Vault--client-)
-  - FreeStuffScraper - A scraper for when I'm too lazy to browse MTLblog. [The repo is here.](https://github.com/SebasNatale95/FreeStuffScraper)
-  - Delilah Resto - An Uber-Eats-like API for restaurant management. [The repo is here.](https://github.com/SebasNatale95/Delilah-Resto)
-  - GifOS - A GIF browser with upload functionality. [The repo is here.](https://github.com/SebasNatale95/gifOS)
+  - The ADHD Vault (client) - An app for a dear friend. [The repo is here.](https://github.com/Seb-Natale/The-ADHD-Vault--client-)
+  - FreeStuffScraper - A scraper for when I'm too lazy to browse MTLblog. [The repo is here.](https://github.com/Seb-Natale/FreeStuffScraper)
+  - Delilah Resto - An Uber-Eats-like API for restaurant management. [The repo is here.](https://github.com/Seb-Natale/Delilah-Resto)
+  - GifOS - A GIF browser with upload functionality. [The repo is here.](https://github.com/Seb-Natale/gifOS)
